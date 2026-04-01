@@ -82,8 +82,5 @@ All models are tuned via grid search cross-validation. The best model is selecte
 
 
 
-> **Note:** `data_transformation.py`, `model_trainer.py`, `training_pipeline.py`, `app.py`, and `main.py` will be added in the final submission.
-
----
-
-Review
+>**Please check the report uploaded on the google drive for additional information
+**
